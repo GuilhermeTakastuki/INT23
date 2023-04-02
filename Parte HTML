@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Codes</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="aboutus.html">About Me</a>
+            </li>
+            <li>
+                <a href="projects.html">Projects</a>
+            </li>
+            <li>
+                <a href="contact us.html">Contact us</a>
+            </li>
+    </nav>
+
+    <header>
+        <div class="center"> 
+            <img src="./img/Takastuki.jpg">
+        </div>
+        <h1>Guilherme Takastuki</h1>
+        <h2>Blender Modeler</h2>
+        <h3>Lorem ipsum dolor sit amet. Aut nisi temporibus quo magni dicta eum adipisci dolor aut enim velit et voluptatum deserunt qui delectus fuga sed nihil animi. Est quasi voluptas aut itaque galisum aut molestias exercitationem id explicabo delectus et odit galisum qui quam necessitatibus ea modi repellat. Aut praesentium deserunt non galisum quos et doloremque velit et accusantium ratione et atque eligendi qui harum maxime. Eos incidunt ipsa quo fuga tempora ea ipsum dolorem est aperiam perspiciatis ab aspernatur ve.</h3>
+    </header>
+    <footer>
+        <a href="https://discord.gg/8DAhK6Ve9X" target="_blank" rel="noopener noopener">
+          <img src="./img/discord.jpg"></img>
+          <p>Discord</p>
+        </a>
+    </footer>
+</body>
+</html>
